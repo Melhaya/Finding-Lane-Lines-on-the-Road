@@ -27,12 +27,12 @@ The output of the pipeline is as follows:
 ![alt text][image1]
 
 
-### 2. Identify potential shortcomings with your current pipeline
+### 2. Potential shortcomings with my current pipeline
 
 
 One potential shortcoming would be what would happen when the lanes start to take a curve, it becomes more challenging to detect and accurately draw the lines 
 
 
-### 3. Suggest possible improvements to your pipeline
+### 3. Possible improvements to my pipeline
 
 A possible improvement would be to using a more complex function to detect curves and thus detecting the lanes with a polynomial function instead of using a straight line. The performance would definetly be enhanced.
